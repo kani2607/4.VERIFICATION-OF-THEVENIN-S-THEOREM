@@ -1,5 +1,7 @@
 # 4.VERIFICATION-OF-THEVENIN-S-THEOREM
 
+## NAME: Kanishka T
+## REF NO: 25018067
 **AIM:**
 
 To verify Thevenin’s theorem practically and theoretically for the given DC circuit.
@@ -50,6 +52,10 @@ Thevenin’s equivalent circuit
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/f86cd6f3-017d-4f01-a763-cf2f046ae609" />
+
+<img width="1280" height="803" alt="image" src="https://github.com/user-attachments/assets/642ac9d3-f66b-4603-a90d-a158265a2b39" />
+
 
 **PROCEDURE:**
 
@@ -78,3 +84,7 @@ Thevenin’s equivalent circuit
     Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+
+## RESULT:
+
+Thus thevenin's Theorem is verified practically and theoretically.
