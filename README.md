@@ -85,6 +85,9 @@ Thevenin’s equivalent circuit
 
 13.	Theoretically verify the Norton’s theorem.
 
+<img width="1487" height="1080" alt="image" src="https://github.com/user-attachments/assets/97ccde37-8354-42bf-b46e-2ffd6ae8080a" />
+	
+
 ## RESULT:
 
 Thus thevenin's Theorem is verified practically and theoretically.
